@@ -3,6 +3,8 @@ package com.example.stroyopttorg.entity;
 import jakarta.persistence.*;
 import lombok.*;
 
+import javax.management.relation.Role;
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
